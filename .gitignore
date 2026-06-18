@@ -1,4 +1,14 @@
 venv/
+
+data/raw/
+data/images/
+data/processed/
+
+models/
+
 __pycache__/
+.ipynb_checkpoints/
+
 *.pth
+*.pt
 *.pyc
